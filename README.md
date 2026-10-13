@@ -7,7 +7,7 @@ An Arduino-based digital wattmeter that measures DC voltage, current, and power 
 
 ---
 
-##  Hardware Requirements (Bill of Materials)
+##  Hardware Requirements
 
 To build this project, you will need the following components:
 
